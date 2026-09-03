@@ -11,3 +11,5 @@ surface.
 
 **Next step:** enumerate service versions with `nmap -sV` and investigate
 the FTP service for known vulnerabilities.
+
+ ![nmap scan results](../nmap-scan-metasploitable2.png)
