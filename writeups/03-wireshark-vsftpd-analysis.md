@@ -49,3 +49,5 @@ and an unexpected port opening right after. This is exactly the kind of
 pattern-matching a SOC analyst relies on — a detection rule alerting on
 FTP `USER` commands containing non-standard characters like `:)`, or on
 any traffic to port 6200, would have caught this attack in real time.
+
+ ![FTP login trigger — TCP stream](ftp-login-tcp-stream.png) ![Port 6200 backdoor traffic](port-6200-backdoor-traffic.png)
